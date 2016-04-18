@@ -1,0 +1,2 @@
+VOS-parser is a portable parser library for Virtual Orchestra Studio and CanMusic. It is implemented with pure C.<br>
+A demo vos player and midi player is also supplied in the samples, which can be used directly under Windows.
